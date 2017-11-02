@@ -2,5 +2,5 @@
 DM Tools; This project is a fun way to learn new skills.
 
 ## Contributors
-luke-aiello
-Caleb-Shepard
+luke-aiello <br />
+Caleb-Shepard <br />
